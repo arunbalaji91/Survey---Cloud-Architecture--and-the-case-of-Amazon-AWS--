@@ -1,4 +1,4 @@
-# Survey---CloudArchitecture-the-case-of-Amazon-AWS-
+# Survey Cloud Architecture-the-case-of-Amazon-AWS
 Survey
 
 I created a report on how Amazon implements its Amazon Web Service (AWS) through cloud architecture. 
